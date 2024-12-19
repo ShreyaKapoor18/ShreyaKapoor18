@@ -43,6 +43,9 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 
 ![ShreyaKapoor18's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaKapoor18&show_icons=true&theme=radical)
 
+LeetCode
+![ShreyaKapoor18's LeetCode stats](https://leetcode.com/u/ShreyaKapoor18/)
+
 
 ## 📝 Latest Blog Posts
 
