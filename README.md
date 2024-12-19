@@ -44,16 +44,12 @@ MS in Life Science Informatics from the University of Bonn. Currently, I am purs
 
 ![ShreyaKapoor18's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaKapoor18&show_icons=true&theme=radical)
 
-## 📌 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyaKapoor18&repo=awesome-project)](https://github.com/ShreyaKapoor18/awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyaKapoor18&repo=another-cool-project)](https://github.com/ShreyaKapoor18/another-cool-project)
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Closures](https://medium.com/@shreyakapoor18/understanding-javascript-closures-abcdefg)
-- [A Beginner's Guide to Docker](https://medium.com/@shreyakapoor18/a-beginners-guide-to-docker-hijklmn)
+- [Remote Development using Pycharm](https://medium.com/@shreyakapoor18/remote-development-using-pycharm-f89f08f13928)
+- [A Necessity, A comfort or both](https://medium.com/@shreyakapoor18/a-necessity-a-comfort-or-both-890aa9015b9d)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
