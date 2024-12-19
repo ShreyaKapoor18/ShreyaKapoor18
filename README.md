@@ -1,8 +1,8 @@
 # Hi there, I'm Shreya Kapoor 👋
 
 Welcome to my GitHub profile! I am a curious researcher at the interface of Cognitive Science and Computer Vision!
-I have a very interdisciplinary research background. I have a BSc. (H) in Physics from the University of Delhi and an
-MS in Life Science Informatics from the University of Bonn. Currently, I am pursuing a PhD in Cognitive Computer Vision at the Cognitive Computer Vision Lab, at the University of Erlangen-Nuremberg. I have worked on various interdisciplinary research projects and am looking for collaborators! 
+I have a very interdisciplinary research background. I have a B.Sc. (H) in Physics from the University of Delhi and an
+M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am pursuing a PhD in Cognitive Computer Vision at the Cognitive Computer Vision Lab, at the University of Erlangen-Nuremberg. I have worked on various interdisciplinary research projects and am looking for collaborators! 
 
 ## 🚀 About Me
 
