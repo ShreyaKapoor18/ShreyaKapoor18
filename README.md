@@ -16,17 +16,18 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 
 - **Followers**: ![Followers](https://img.shields.io/github/followers/ShreyaKapoor18?style=social)
 - **Stars**: ![Stars](https://img.shields.io/github/stars/ShreyaKapoor18?style=social)
-- ## Activity
+
+## Activity
 
 Here are some stats related to my recent activity on GitHub:
 
 - **Total Commits**: <progress value="80" max="100" style="width: 100%; height: 20px;"></progress> (80%)
-- **Contributions This Year**: ![Contributions](https://img.shields.io/github/commit-activity/m/ShreyaKapoor18?style=plastic)
+- **Contributions This Year**: ![Contributions](https://img.shields.io/github/commit-activity/yourusername/?style=plastic)
 
 ## Languages I Work With
 
 - **Python**: ![Python](https://img.shields.io/github/languages/top/ShreyaKapoor18?style=plastic)
-- **JavaScript**: ![JavaScript](https://img.shields.io/github/languages/top/ShreyaKapoor18/yourrepo?style=plastic)
+- **JavaScript**: ![JavaScript](https://img.shields.io/github/languages/top/yourusername/yourrepo?style=plastic)
 
 
 
