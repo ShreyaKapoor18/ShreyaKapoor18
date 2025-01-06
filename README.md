@@ -53,4 +53,4 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyakapoor18)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/skapoor_18)
 
-Thank you for visiting my profile! 😊
+Thank you for visiting my profile! 
