@@ -15,9 +15,7 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 - ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
 
 - **Followers**: ![Followers](https://img.shields.io/github/followers/ShreyaKapoor18?style=social)
-- **Repositories**: ![Repositories](https://img.shields.io/github/repositories/ShreyaKapoor18?style=social)
 - **Stars**: ![Stars](https://img.shields.io/github/stars/ShreyaKapoor18?style=social)
-- **Forks**: ![Forks](https://img.shields.io/github/forks/ShreyaKapoor18?style=social)
 
 
 
