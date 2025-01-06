@@ -30,8 +30,7 @@ Here are some stats related to my recent activity on GitHub:
 ## 🛠️ Technologies & Tools
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) |![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) | ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white) | ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  | ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white)  | ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)  | ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white)  |![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)  | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  | ![Django](https://img.shields.io/badge/-Django-092D2F?style=flat-square&logo=django&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ### Tools
