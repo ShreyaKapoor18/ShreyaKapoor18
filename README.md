@@ -22,7 +22,7 @@ Here are some stats related to my recent activity on GitHub:
 
 ## Languages I Work With
 
-- **Python**: ![Python](https://img.shields.io/github/languages/top/ShreyaKapoor18?style=plastic)
+- **Python**: ![Python](https://img.shields.io/github/languages/top/yourusername?style=plastic)
 - **JavaScript**: ![JavaScript](https://img.shields.io/github/languages/top/yourusername/yourrepo?style=plastic)
 
 
