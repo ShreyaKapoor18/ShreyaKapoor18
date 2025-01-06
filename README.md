@@ -14,15 +14,11 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 - ⚡ Fun fact: I love watching action movies and programming in my free time.
 - ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
 
-- **Followers**: ![Followers](https://img.shields.io/github/followers/ShreyaKapoor18?style=social)
-- **Stars**: ![Stars](https://img.shields.io/github/stars/ShreyaKapoor18?style=social)
-
 ## Activity
 
 Here are some stats related to my recent activity on GitHub:
 
 - **Total Commits**: <progress value="80" max="100" style="width: 100%; height: 20px;"></progress> (80%)
-- **Contributions This Year**: ![Contributions](https://img.shields.io/github/commit-activity/yourusername/?style=plastic)
 
 ## Languages I Work With
 
