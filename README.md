@@ -28,28 +28,29 @@ Here are some stats related to my recent activity on GitHub:
 ## 🛠️ Technologies & Tools
 
 ### Languages
-- Python
-- JavaScript
-- HTML5 & CSS3
-- SQL
-- C++
-- Java
-- R
-- Scala
-- Matlab
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ### Frameworks & Libraries
-- React
-- Node.js
-- Django
-- Pandas
-- Python
-
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092D2F?style=flat-square&logo=django&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ### Tools
-- Git & GitHub
-- Docker
-- VS Code
-- Jupyter Notebook
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)  
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)  
+
+### 💻 IDEs/Editors
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white)
 
 ### 🖥️ Libraries
 ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square&logo=pandas&logoColor=white)
