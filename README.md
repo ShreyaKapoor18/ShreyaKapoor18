@@ -14,7 +14,7 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 
 ## 🧑‍🏫 Current Supervisor & Lab
 
-- **Supervisor:** [Prof. Dr. [Bernhard Egger]](https://eggerbernhard.ch)
+- **Supervisor:** [Prof. Dr. Bernhard Egger](https://eggerbernhard.ch)
 - **Lab Twitter:** [Cognitive Computer Vision Lab](https://x.com/cogcovi?lang=en)
 
 ## Activity
