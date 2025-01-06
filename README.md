@@ -18,8 +18,8 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 
 Here are some stats related to my recent activity on GitHub:
 
-- **Total Commits**: <progress value="80" max="100" style="width: 100%; height: 20px;"></progress> (80%)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaKapoor18&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaKapoor18&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaKapoor18)
 
 
 
