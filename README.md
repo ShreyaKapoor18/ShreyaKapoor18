@@ -12,7 +12,8 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Email](mailto:kapoorshreya18@gmail.com)
 
 - ⚡ Fun fact: I love watching action movies and programming in my free time.
-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepository)
+- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository) |  
+
 
 
 ## 🛠️ Technologies & Tools
