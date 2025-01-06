@@ -11,7 +11,6 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 - 💬 Ask me about Python, Data Science, Machine Learning, and Cognitive Science.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Email](mailto:kapoorshreya18@gmail.com)
 
-- ⚡ Fun fact: I love watching action movies and programming in my free time.
 - ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
 
 ## Activity
