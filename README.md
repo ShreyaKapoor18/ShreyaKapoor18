@@ -8,7 +8,7 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 
 - 🌱 I’m currently learning advanced Computer Vision and Cognitive Science. 
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, Data Science, Machine Learning and Cognitive Science.
+- 💬 Ask me about Python, Data Science, Machine Learning, and Cognitive Science.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Email](mailto:kapoorshreya18@gmail.com)
 
 - ⚡ Fun fact: I love watching action movies and programming in my free time. 
@@ -51,6 +51,6 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyakapoor18)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/shreyakapoor18)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/skapoor_18)
 
 Thank you for visiting my profile! 😊
