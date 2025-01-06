@@ -10,8 +10,12 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Python, Data Science, Machine Learning, and Cognitive Science.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Email](mailto:kapoorshreya18@gmail.com)
-
 - ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
+
+## 🧑‍🏫 Current Supervisor & Lab
+
+- **Supervisor:** [Prof. Dr. [Bernhard Egger]](https://eggerbernhard.ch)
+- **Lab Twitter:** [Cognitive Computer Vision Lab](https://x.com/cogcovi?lang=en)
 
 ## Activity
 
