@@ -12,7 +12,12 @@ M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am p
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Email](mailto:kapoorshreya18@gmail.com)
 
 - ⚡ Fun fact: I love watching action movies and programming in my free time.
-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository) |
+- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
+
+- **Followers**: ![Followers](https://img.shields.io/github/followers/ShreyaKapoor18?style=social)
+- **Repositories**: ![Repositories](https://img.shields.io/github/repositories/ShreyaKapoor18?style=social)
+- **Stars**: ![Stars](https://img.shields.io/github/stars/ShreyaKapoor18?style=social)
+- **Forks**: ![Forks](https://img.shields.io/github/forks/ShreyaKapoor18?style=social)
 
 
 
