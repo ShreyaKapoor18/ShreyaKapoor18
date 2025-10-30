@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a curious researcher at the interface of Cognitive Science and Computer Vision!
 I have a very interdisciplinary research background. My academic background comes with a B.Sc. (H) in Physics from the University of Delhi and an
-M.Sc. in Life Science Informatics from the University of Bonn. Currently, I am pursuing a PhD in Cognitive Computer Vision at the Cognitive Computer Vision Lab, at the University of Erlangen-Nuremberg. I have worked on various interdisciplinary research projects and am looking for collaborators! 
+M.Sc. in Life Science Informatics from the University of Bonn. Until now, I was a researcher with Prof. Dr. Bernhard Egger at the Cognitive Computer Vision lab. I have worked on various interdisciplinary research projects and am looking for collaborators! 
 
 ## 🚀 About Me
 
