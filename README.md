@@ -5,7 +5,7 @@ I have a very interdisciplinary research background. My academic background come
 M.Sc. in Life Science Informatics from the University of Bonn. Until now, I was a researcher with Prof. Dr. Bernhard Egger at the Cognitive Computer Vision lab. I have worked on various interdisciplinary research projects and am looking for collaborators! 
 
 ## 🚀 About Me
-
+- I have been accepted as a DAAD Young Ambassador for the academic session 2025-26.
 - 🌱 I’m currently learning advanced Computer Vision and Cognitive Science. 
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Python, Data Science, Machine Learning, and Cognitive Science.
