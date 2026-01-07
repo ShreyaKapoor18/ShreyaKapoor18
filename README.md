@@ -1,8 +1,7 @@
 # Hi there, I'm Shreya Kapoor 👋
 
-Welcome to my GitHub profile! I am a curious researcher at the interface of Cognitive Science and Computer Vision!
-I have a very interdisciplinary research background. My academic background comes with a B.Sc. (H) in Physics from the University of Delhi and an
-M.Sc. in Life Science Informatics from the University of Bonn. Until now, I was a researcher with Prof. Dr. Bernhard Egger at the Cognitive Computer Vision lab. I have worked on various interdisciplinary research projects and am looking for collaborators! 
+Welcome to my GitHub profile! I am a curious researcher with a very interdisciplinary research background. My academic background comes with a B.Sc. (H) in Physics from the University of Delhi and an
+M.Sc. in Life Science Informatics from the University of Bonn. Until now, I was a researcher with Prof. Dr. Bernhard Egger at the Cognitive Computer Vision lab.
 
 ## 🚀 About Me
 - I have been accepted as a DAAD Young Ambassador for the academic session 2025-26
