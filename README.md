@@ -1,7 +1,7 @@
 # Hi there, I'm Shreya Kapoor 👋
 
 Welcome to my GitHub profile! I am a curious researcher with a very interdisciplinary research background. My academic background comes with a B.Sc. (H) in Physics from the University of Delhi and an
-M.Sc. in Life Science Informatics from the University of Bonn. Until now, I was a researcher with Prof. Dr. Bernhard Egger at the Cognitive Computer Vision lab.
+M.Sc. in Life Science Informatics from the University of Bonn. 
 
 ## 🚀 About Me
 - I have been accepted as a DAAD Young Ambassador for the academic session 2025-26
@@ -12,10 +12,6 @@ M.Sc. in Life Science Informatics from the University of Bonn. Until now, I was 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Email](mailto:kapoorshreya18@gmail.com)
 - ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
 
-## 🧑‍🏫 Current Supervisor & Lab
-
-- **Supervisor:** [Prof. Dr. Bernhard Egger](https://eggerbernhard.ch)
-- **Lab Twitter:** [Cognitive Computer Vision Lab](https://x.com/cogcovi?lang=en)
 
 ## Activity
 
