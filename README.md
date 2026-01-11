@@ -40,6 +40,9 @@ Here are some stats related to my recent activity on GitHub:
 ### 🖥️ Libraries
 ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white) | ![SciPy](https://img.shields.io/badge/-SciPy-green?style=flat-square&logo=sci-py&logoColor=white)| ![Plotly](https://img.shields.io/badge/-Plotly-3A4F75?style=flat-square&logo=plotly&logoColor=white) | | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-yellow?style=flat-square&logo=scikit-learn&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)| ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-007A5A?style=flat-square&logo=python&logoColor=white)
 
+## Podcasts and Videos I like
+
+[2026 AI podcast](https://www.youtube.com/watch?v=2WTFuSeYJ6o)
 
 
 ## 📝 Latest Blog Posts
