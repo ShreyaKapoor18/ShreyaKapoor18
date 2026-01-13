@@ -1,6 +1,6 @@
 # Hi there, I'm Shreya Kapoor 👋
 
-Welcome to my GitHub profile! I am a curious researcher with a very interdisciplinary research background. My academic background comes with a B.Sc. (H) in Physics from the University of Delhi and an
+Welcome to my GitHub profile! I am a curious researcher with an interdiscplinary research background. I hold a B.Sc. (H) in Physics from the University of Delhi and an
 M.Sc. in Life Science Informatics from the University of Bonn. 
 
 ## 🚀 About Me
