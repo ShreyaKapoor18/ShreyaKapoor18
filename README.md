@@ -6,9 +6,9 @@ M.Sc. in Life Science Informatics from the University of Bonn.
 ## 🚀 About Me
 - I have been accepted as a DAAD Young Ambassador for the academic session 2025-26
 - I also served as reviewer for Deep Learning Indaba Hackathon!
-- 🌱 I’m currently learning advanced Computer Vision and Cognitive Science. 
+- 🌱 I’m currently learning advanced Computer Vision, Cognitive Science and Bioinformatics!
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, Data Science, Machine Learning, and Cognitive Science.
+- 💬 Ask me about Python, Data Science, Machine Learning, and Cognitive Science, Bioinformatics!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Email](mailto:kapoorshreya18@gmail.com)
 - ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
 
