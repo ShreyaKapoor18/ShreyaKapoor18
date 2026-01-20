@@ -19,6 +19,7 @@ Here are some stats related to my recent activity on GitHub:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaKapoor18&show_icons=true&count_private=true) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaKapoor18)
+*(Jupyter Notebooks contain Python code)*
 
 ## 🌟 Highlights  
 
